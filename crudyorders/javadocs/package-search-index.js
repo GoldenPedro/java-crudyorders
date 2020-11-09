@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.lambdaschool.crudyorders"},{"l":"com.lambdaschool.orders"},{"l":"com.lambdaschool.orders.config"},{"l":"com.lambdaschool.orders.models"},{"l":"com.lambdaschool.orders.repositories"}]
